@@ -69,6 +69,13 @@ img{
 	margin: 40px 8px 0 8px;
 }
 
+button{
+	padding: 10px;
+	border-radius: 5px;
+	border-style: hidden;
+	font-size: 12px;
+}
+
 footer{
 	text-transform: uppercase;
 	padding: 0 20px;
